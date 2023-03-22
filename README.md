@@ -17,3 +17,13 @@ Why Use Bootstrap?
 - Browser compatibility: Bootstrap 4 is compatible with all modern browsers (Chrome, Firefox, Internet Explorer 10+, Edge, Safari, and Opera)
 
 If you want to download and host Bootstrap 4 yourself, go to https://getbootstrap.com/, and follow the instructions there.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+HOW TO USE THE DOCUMENTATION:
+
+The PDF labelled "Bootstrap 4 Documentation.pdf" contains complete documenataion for the Bootstrap 4 framework along with detiled descriptions for various functionalities and features it provides in building a website alogn with screenshots for the results.
+
+The code for the screenshots have been uploaded as HTML files in various folders and some as seperate individual files which you can go through to get a sense of basics. To understand which file gives a specific output, I have labelled the files based upon their functioning in the documentation and the folders are labelled according to the headings present in the documentation.
+
+Hope you can learn and refer to this repo for your projects. Thank You :)
